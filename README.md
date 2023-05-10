@@ -1,16 +1,17 @@
-# food_location_app
+# Look Look Cafe
 
-A new Flutter project.
+ITCS424-Wireless-Mobile-Computing
 
-## Getting Started
+# Team Member
+- Vipavee Ngamyingsurat 6388094
+- Thanakij Pinyoboon 6388097
 
-This project is a starting point for a Flutter application.
+# The project features
+- Cafe recommend
+- Navigation map
+- Add your favourite cafe and stored in locally device
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# How to run
+1. Open terminal
+2. Type "flutter pub get" to download all dependencies
+3. Type "flutter run" and open on your prefer device
